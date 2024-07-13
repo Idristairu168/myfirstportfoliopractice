@@ -283,3 +283,10 @@ textarea:focus-within{
     flex-direction: column-reverse;
   }
 }
+
+
+@media (min-width: 768px) {
+  #hamburger {
+    display: none;
+  }
+}
